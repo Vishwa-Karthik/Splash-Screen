@@ -10,7 +10,7 @@ flutter pub get
 ## Results
 
 <p>
-<img src="./results/splash_screen.gif" width=300 height=650 >
+<img src="./results/splash_screen.gif" width="420px" height="850px" >
 </p>
 
 ## Know more about ?
